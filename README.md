@@ -1,1 +1,1 @@
-# Coronavirus-live-tracer-and-notifier
+# Coronavirus Live Tracer and Notifier
