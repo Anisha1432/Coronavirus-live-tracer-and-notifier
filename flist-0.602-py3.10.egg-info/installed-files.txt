@@ -1,0 +1,10 @@
+..\flist\__init__.py
+..\flist\__main__.py
+..\flist\__pycache__\__init__.cpython-310.pyc
+..\flist\__pycache__\__main__.cpython-310.pyc
+..\flist\__pycache__\flist.cpython-310.pyc
+..\flist\flist.py
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+top_level.txt
